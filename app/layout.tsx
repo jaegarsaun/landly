@@ -49,7 +49,7 @@ export default function RootLayout({
                 <p className="font-bold">
                   Landly
                 </p>
-                <ThemeSwitcher />
+                {/* <ThemeSwitcher /> */}
               </footer>
             </div>
           </main>
